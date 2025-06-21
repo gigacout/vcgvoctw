@@ -1,4 +1,3 @@
-const response = await fetch('https://raw.githubusercontent.com/gigacout/vcgvoctw/main/manifest.json');
 {
   "Nivel 0 (Temas)": {
     "Transporte": {
