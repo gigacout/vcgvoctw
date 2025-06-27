@@ -8,6 +8,9 @@
     },
     "Aparatos Electrónicos": {
       "Sección 1": "nivel0-electronicos-sec1.json"
+    },
+    "Países de África": {
+      "Sección 1": "nivel0-paises-africa.json"
     }
   },
   "Nivel 3": {
