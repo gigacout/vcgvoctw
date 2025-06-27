@@ -9,6 +9,9 @@
     "Aparatos Electrónicos": {
       "Sección 1": "nivel0-electronicos-sec1.json"
     },
+    "Colores": {
+      "Sección 1": "nivel0-colores-sec1.json"
+    },
     "Países": {
       "África": "nivel0-paises-africa.json",
       "América": "nivel0-paises-america.json",
