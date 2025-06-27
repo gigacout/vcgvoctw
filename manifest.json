@@ -6,6 +6,9 @@
     "Frutas": {
       "Sección 1": "nivel0-frutas-sec1.json"
     },
+    "Números": {
+      "Sección 1": "nivel0-numeros-sec1.json"
+    },
     "Aparatos Electrónicos": {
       "Sección 1": "nivel0-electronicos-sec1.json"
     },
