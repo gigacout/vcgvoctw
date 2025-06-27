@@ -1,22 +1,19 @@
 {
   "Nivel 0 (Temas)": {
-    "Transporte": {
-      "Sección 1": "nivel0-transportes-sec1.json"
-    },
-    "Verbos Comunes": {
-      "Sección 1": "nivel0-verbos-comunes-sec1.json"
-    },
-    "Frutas": {
-      "Sección 1": "nivel0-frutas-sec1.json"
-    },
-    "Números": {
-      "Sección 1": "nivel0-numeros-sec1.json"
+    "Animales": {
+      "Sección 1": "nivel0-animales-sec1.json"
     },
     "Aparatos Electrónicos": {
       "Sección 1": "nivel0-electronicos-sec1.json"
     },
     "Colores": {
       "Sección 1": "nivel0-colores-sec1.json"
+    },
+    "Frutas": {
+      "Sección 1": "nivel0-frutas-sec1.json"
+    },
+    "Números": {
+      "Sección 1": "nivel0-numeros-sec1.json"
     },
     "Países": {
       "África": "nivel0-paises-africa.json",
@@ -26,8 +23,14 @@
       "Oceanía": "nivel0-paises-oceania.json",
       "Otros": "nivel0-paises-otros.json"
     },
-        "Tiempo": {
+    "Tiempo": {
       "Sección 1": "nivel0-tiempo-sec1.json"
+    },
+    "Transporte": {
+      "Sección 1": "nivel0-transportes-sec1.json"
+    },
+    "Verbos Comunes": {
+      "Sección 1": "nivel0-verbos-comunes-sec1.json"
     }
   },
   "Nivel 3": {
