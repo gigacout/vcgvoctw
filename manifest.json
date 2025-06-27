@@ -22,6 +22,9 @@
       "Europa": "nivel0-paises-europa.json",
       "Oceanía": "nivel0-paises-oceania.json",
       "Otros": "nivel0-paises-otros.json"
+    },
+        "Tiempo": {
+      "Sección 1": "nivel0-tiempo-sec1.json"
     }
   },
   "Nivel 3": {
