@@ -11,9 +11,10 @@
     },
     "Países": {
       "África": "nivel0-paises-africa.json",
-      "Europa": "nivel0-paises-europa.json",
+      "América": "nivel0-paises-america.json",
       "Asia": "nivel0-paises-asia.json",
-      "América": "nivel0-paises-america.json"
+      "Europa": "nivel0-paises-europa.json",
+      "Oceanía": "nivel0-paises-oceania.json"
     }
   },
   "Nivel 3": {
