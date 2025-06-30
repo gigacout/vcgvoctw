@@ -6,6 +6,9 @@
     "Aparatos Electrónicos": {
       "Sección 1": "nivel0-electronicos-sec1.json"
     },
+    "Clima": {
+      "Sección 1": "nivel0-clima-sec1.json"
+    },
     "Colores": {
       "Sección 1": "nivel0-colores-sec1.json"
     },
