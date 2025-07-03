@@ -50,6 +50,9 @@
       "Oceanía": "nivel0-paises-oceania.json",
       "Otros": "nivel0-paises-otros.json"
     },
+    "Ropa y Moda": {
+      "Sección 1": "nivel0-ropa-sec1.json"
+    },
     "Tiempo": {
       "Sección 1": "nivel0-tiempo-sec1.json"
     },
