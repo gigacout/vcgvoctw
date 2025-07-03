@@ -12,6 +12,9 @@
     "Aparatos Electrónicos": {
       "Sección 1": "nivel0-electronicos-sec1.json"
     },
+    "Clasificadores": {
+      "Sección 1": "nivel0-clasificadores-sec1.json"
+    },
     "Clima": {
       "Sección 1": "nivel0-clima-sec1.json"
     },
