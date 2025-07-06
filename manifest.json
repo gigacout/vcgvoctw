@@ -59,6 +59,9 @@
       "Oceanía": "nivel0-paises-oceania.json",
       "Otros": "nivel0-paises-otros.json"
     },
+    "Profesiones": {
+      "Sección 1": "nivel0-profesiones-sec1.json"
+    },
     "Ropa y Moda": {
       "Sección 1": "nivel0-ropa-sec1.json"
     },
