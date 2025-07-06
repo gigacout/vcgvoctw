@@ -21,6 +21,9 @@
     "Colores": {
       "Sección 1": "nivel0-colores-sec1.json"
     },
+    "Comida": {
+      "Sección 1": "nivel0-comidas-sec1.json"
+    },
     "Deportes": {
       "Sección 1": "nivel0-deportes-sec1.json"
     },
