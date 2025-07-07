@@ -42,6 +42,9 @@
     "Frutas": {
       "Sección 1": "nivel0-frutas-sec1.json"
     },
+    "Gramática": {
+      "Complemento Resultativo '出來'": "nivel0-gramatica-chulai.json"
+    },
     "Hobbies y Pasatiempos": {
       "Sección 1": "nivel0-hobbies-sec1.json"
     },
