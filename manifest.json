@@ -43,13 +43,14 @@
       "Sección 1": "nivel0-frutas-sec1.json"
     },
     "Gramática": {
-      "Verbo/Adj + 出來": "nivel0-gramatica-verb-adj-出來.json",
-      "Verbo/Adj + 起來": "nivel0-gramatica-verb-adj-起來.json",
-      "Verbo/Adj + 到": "nivel0-gramatica-verb-adj-到.json",
       "Complementos de Grado": "nivel0-gramatica-complementos-grado.json",
       "Complementos Direccionales": "nivel0-gramatica-complementos-direccionales.json",
       "Complementos Potenciales": "nivel0-gramatica-complementos-potenciales.json",
-      "Complementos Resultativos": "nivel0-gramatica-complementos-resultativos.json"
+      "Complementos Resultativos": "nivel0-gramatica-complementos-resultativos.json",
+      "Verbo/Adj + 出來": "nivel0-gramatica-verb-adj-出來.json",
+      "Verbo/Adj + 起來": "nivel0-gramatica-verb-adj-起來.json",
+      "Verbo/Adj + 到": "nivel0-gramatica-verb-adj-到.json",
+      "Verbo/Adj. + 得了/不了": "nivel0-gramatica-verb-adj-得了.json"
     },
     "Hobbies y Pasatiempos": {
       "Sección 1": "nivel0-hobbies-sec1.json"
