@@ -45,7 +45,8 @@
     "Gramática": {
       "Complemento Resultativo '出來'": "nivel0-gramatica-chulai.json",
       "Verbo + 到 (Resultado)": "nivel0-gramatica-verbo-dao-sec1.json",
-      "Complementos Potenciales": "nivel0-gramatica-complementos-potenciales.json"
+      "Complementos Potenciales": "nivel0-gramatica-complementos-potenciales.json",
+      "Complementos Resultativos": "nivel0-gramatica-complementos-resultativos.json"
     },
     "Hobbies y Pasatiempos": {
       "Sección 1": "nivel0-hobbies-sec1.json"
