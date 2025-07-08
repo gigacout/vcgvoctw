@@ -44,6 +44,7 @@
     },
     "Gramática": {
       "Verbo/Adj + 出來": "nivel0-gramatica-verb-adj-出來.json",
+      "Verbo/Adj + 起來": "nivel0-gramatica-verb-adj-起來.json",
       "Verbo + 到 (Resultado)": "nivel0-gramatica-verbo-dao-sec1.json",
       "Complementos de Grado": "nivel0-gramatica-complementos-grado.json"，
       "Complementos Direccionales": "nivel0-gramatica-complementos-direccionales.json",
