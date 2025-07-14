@@ -83,7 +83,8 @@
       "Sección 1": "nivel0-ropa-sec1.json"
     },
     "Taiwán": {
-      "Lugares": "nivel0-taiwan-lugares.json"
+      "Lugares": "nivel0-taiwan-lugares.json",
+      "Comidas": "nivel0-taiwan-comidas.json"
     },
     "Tiempo": {
       "Sección 1": "nivel0-tiempo-sec1.json"
