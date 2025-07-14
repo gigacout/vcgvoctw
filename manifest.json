@@ -59,9 +59,6 @@
     "Hobbies y Pasatiempos": {
       "Sección 1": "nivel0-hobbies-sec1.json"
     },
-    "Lugares": {
-      "Sección 1": "nivel0-taiwan-lugares.json"
-    },
     "Medidas": {
       "Sección 1": "nivel0-medidas-sec1.json"
     },
@@ -84,6 +81,9 @@
     },
     "Ropa y Moda": {
       "Sección 1": "nivel0-ropa-sec1.json"
+    },
+    "Taiwán": {
+      "Lugares": "nivel0-taiwan-lugares.json"
     },
     "Tiempo": {
       "Sección 1": "nivel0-tiempo-sec1.json"
