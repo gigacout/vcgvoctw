@@ -40,10 +40,10 @@
       "Sección 1": "nivel0-frutas-sec1.json"
     },
     "Gramática": {
-      "Complementos de Grado": "nivel0-gramatica-complementos-grado.json",
       "Adjetivos": "nivel0-gramatica-adjetivos.json",
       "Adverbios": "nivel0-gramatica-adverbios.json",
       "Clasificadores": "nivel0-gramatica-clasificadores.json",
+      "Complementos de Grado": "nivel0-gramatica-complementos-grado.json",
       "Complementos Direccionales": "nivel0-gramatica-complementos-direccionales.json",
       "Complementos Potenciales": "nivel0-gramatica-complementos-potenciales.json",
       "Complementos Resultativos": "nivel0-gramatica-complementos-resultativos.json",
