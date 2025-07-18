@@ -88,7 +88,8 @@
     "Taiwán": {
       "Lugares": "nivel0-taiwan-lugares.json",
       "Comidas": "nivel0-taiwan-comidas.json",
-      "Metro": "nivel0-taiwan-metro.json"
+      "Metro": "nivel0-taiwan-metro.json",
+      "Bebidas": "nivel0-taiwan-bebidas.json"
     },
     "Tiempo": {
       "Sección 1": "nivel0-tiempo-sec1.json"
