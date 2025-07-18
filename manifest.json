@@ -1,11 +1,5 @@
 {
   "Nivel 0 (Temas)": {
-    "Adjetivos": {
-      "Sección 1": "nivel0-adjetivos-sec1.json"
-    },
-    "Adverbios": {
-      "Sección 1": "nivel0-adverbios-sec1.json"
-    },
     "Animados": {
       "Pokémon Gen 1": "nivel0-pokemon-gen1.json"
     },
@@ -46,6 +40,8 @@
       "Sección 1": "nivel0-frutas-sec1.json"
     },
     "Gramática": {
+      "Adjetivos": "nivel0-gramatica-adjetivos.json",
+      "Adverbios": "nivel0-gramatica-adverbios.json"
       "Complementos de Grado": "nivel0-gramatica-complementos-grado.json",
       "Complementos Direccionales": "nivel0-gramatica-complementos-direccionales.json",
       "Complementos Potenciales": "nivel0-gramatica-complementos-potenciales.json",
