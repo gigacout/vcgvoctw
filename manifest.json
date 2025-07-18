@@ -1,6 +1,6 @@
 {
   "Nivel 0 (Temas)": {
-    "Adjetivos Comunes": {
+    "Adjetivos": {
       "Sección 1": "nivel0-adjetivos-sec1.json"
     },
     "Adverbios": {
@@ -56,8 +56,11 @@
       "Verbo/Adj. + 得了/不了": "nivel0-gramatica-verb-adj-得了.json",
       "Verbo/Adj + 一點": "nivel0-gramatica-verb-adj-一點.json"
     },
-    "Hobbies y Pasatiempos": {
+    "Hobbies": {
       "Sección 1": "nivel0-hobbies-sec1.json"
+    },
+    "Insectos": {
+      "Sección 1": "nivel0-insectos-sec1.json"
     },
     "Medidas": {
       "Sección 1": "nivel0-medidas-sec1.json"
@@ -79,7 +82,7 @@
     "Profesiones": {
       "Sección 1": "nivel0-profesiones-sec1.json"
     },
-    "Ropa y Moda": {
+    "Ropa": {
       "Sección 1": "nivel0-ropa-sec1.json"
     },
     "Taiwán": {
