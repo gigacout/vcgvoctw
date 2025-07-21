@@ -34,7 +34,8 @@
       "Sección 1": "nivel0-familia-sec1.json"
     },
     "Festivales y Tradiciones": {
-      "Sección 1": "nivel0-festivales-sec1.json"
+      "Sección 1": "nivel0-festivales-sec1.json",
+      "Año Nuevo Chino": "nivel0-festivales-año-nuevo.json"
     },
     "Frutas": {
       "Sección 1": "nivel0-frutas-sec1.json"
