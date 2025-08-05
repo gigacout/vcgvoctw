@@ -55,7 +55,8 @@
       "Verbo/Adj + 到": "nivel0-gramatica-verb-adj-到.json",
       "Verbo/Adj. + 得了/不了": "nivel0-gramatica-verb-adj-得了.json",
       "Verbo/Adj + 一點": "nivel0-gramatica-verb-adj-一點.json",
-      "怎麼 + Verbo/Adj.": "nivel0-gramatica-怎麽+verb-adj.json"
+      "Verbo/Adj + 滿": "nivel0-gramatica-verb-adj-滿.json",
+      "怎麼 + Verbo/Adj.": "nivel0-gramatica-怎麽+verb-adj.json"      
     },
     "Hobbies": {
       "Sección 1": "nivel0-hobbies-sec1.json"
@@ -156,4 +157,5 @@
     }
   }
 }
+
 
