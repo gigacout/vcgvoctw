@@ -1,0 +1,542 @@
+[
+  {
+    "num": 1,
+    "id": 12051,
+    "traditional": "道路口部分",
+    "simplified": "道路口部分",
+    "pinyin": "dàolùkǒu bùfèn",
+    "zhuyin": "ㄉㄠˋ ㄌㄨˋ ㄎㄡˇ ㄅㄨˋ ㄈㄣˋ",
+    "type": "N",
+    "tags": ["sección", "carretera", "cruce", "parte", "instrucciones", "section", "road", "intersection", "part", "instructions"],
+    "translation": {
+      "es": "Sección de la intersección",
+      "en": "Intersection section",
+      "fr": "Section de l'intersection",
+      "de": "Kreuzungsbereich",
+      "it": "Sezione dell'incrocio",
+      "pt": "Seção do cruzamento"
+    }
+  },
+  {
+    "num": 2,
+    "id": 12052,
+    "traditional": "從左前輪開始檢查",
+    "simplified": "从左前轮开始检查",
+    "pinyin": "cóng zuǒqián lún kāishǐ jiǎnchá",
+    "zhuyin": "ㄗㄨㄥˊ ㄗㄨㄛˇ ㄑㄧㄢˊ ㄌㄨㄣˊ ㄎㄞ ㄕˇ ㄐㄧㄢˇ ㄔㄚˊ",
+    "type": "V",
+    "tags": ["acción", "comprobar", "rueda", "coche", "inspección", "action", "to check", "wheel", "car", "inspection"],
+    "translation": {
+      "es": "Empezar la inspección desde la rueda delantera izquierda",
+      "en": "Start inspection from the left front wheel",
+      "fr": "Commencer l'inspection par la roue avant gauche",
+      "de": "Inspektion am linken Vorderrad beginnen",
+      "it": "Iniziare l'ispezione dalla ruota anteriore sinistra",
+      "pt": "Iniciar a inspeção pela roda dianteira esquerda"
+    }
+  },
+  {
+    "num": 3,
+    "id": 12053,
+    "traditional": "左前輪胎壓紋正常",
+    "simplified": "左前轮胎压纹正常",
+    "pinyin": "zuǒqián lúntāi yāwén zhèngcháng",
+    "zhuyin": "ㄗㄨㄛˇ ㄑㄧㄢˊ ㄌㄨㄣˊ ㄊㄞ ㄧㄚ ㄨㄣˊ ㄓㄥˋ ㄔㄤˊ",
+    "type": "Phrase",
+    "tags": ["neumático", "rueda", "delantero", "izquierdo", "normal", "presión", "dibujo", "tire", "wheel", "front", "left", "normal", "pressure", "tread"],
+    "translation": {
+      "es": "Presión y dibujo del neumático delantero izquierdo normales",
+      "en": "Left front tire pressure and tread normal",
+      "fr": "Pression et bande de roulement du pneu avant gauche normales",
+      "de": "Reifendruck und Profil links vorne normal",
+      "it": "Pressione e battistrada del pneumatico anteriore sinistro normali",
+      "pt": "Pressão e banda de rodagem do pneu dianteiro esquerdo normais"
+    }
+  },
+  {
+    "num": 4,
+    "id": 12054,
+    "traditional": "前車底無異物正常",
+    "simplified": "前车底无异物正常",
+    "pinyin": "qián chēdǐ wú yìwù zhèngcháng",
+    "zhuyin": "ㄑㄧㄢˊ ㄔㄜ ㄉㄧˇ ㄨˊ ㄧˋ ㄨˋ ㄓㄥˋ ㄔㄤˊ",
+    "type": "Phrase",
+    "tags": ["coche", "parte inferior", "sin objetos extraños", "normal", "inspección", "car", "underbody", "no foreign objects", "normal", "inspection"],
+    "translation": {
+      "es": "Bajos delanteros del coche sin objetos extraños (normal)",
+      "en": "Front undercarriage clear of foreign objects (normal)",
+      "fr": "Dessous avant du véhicule sans objets étrangers (normal)",
+      "de": "Vorderer Unterboden frei von Fremdkörpern (normal)",
+      "it": "Sottoscocca anteriore privo di oggetti estranei (normale)",
+      "pt": "Parte inferior dianteira do carro sem objetos estranhos (normal)"
+    }
+  },
+  {
+    "num": 5,
+    "id": 12055,
+    "traditional": "右前輪胎壓紋正常",
+    "simplified": "右前轮胎压纹正常",
+    "pinyin": "yòuqian lúntāi yāwén zhèngcháng",
+    "zhuyin": "ㄧㄡˋ ㄑㄧㄢˊ ㄌㄨㄣˊ ㄊㄞ ㄧㄚ ㄨㄣˊ ㄓㄥˋ ㄔㄤˊ",
+    "type": "Phrase",
+    "tags": ["neumático", "rueda", "delantero", "derecho", "normal", "presión", "dibujo", "tire", "wheel", "front", "right", "normal", "pressure", "tread"],
+    "translation": {
+      "es": "Presión y dibujo del neumático delantero derecho normales",
+      "en": "Right front tire pressure and tread normal",
+      "fr": "Pression et bande de roulement du pneu avant droit normales",
+      "de": "Reifendruck und Profil rechts vorne normal",
+      "it": "Pressione e battistrada del pneumatico anteriore destro normali",
+      "pt": "Pressão e banda de rodagem do pneu dianteiro direito normais"
+    }
+  },
+  {
+    "num": 6,
+    "id": 12056,
+    "traditional": "右後輪胎壓紋正常",
+    "simplified": "右后轮胎压紋正常",
+    "pinyin": "yòuhòu lúntāi yāwén zhèngcháng",
+    "zhuyin": "ㄧㄡˋ ㄏㄡˋ ㄌㄨㄣˊ ㄊㄞ ㄧㄚ ㄨㄣˊ ㄓㄥˋ ㄔㄤˊ",
+    "type": "Phrase",
+    "tags": ["neumático", "rueda", "trasero", "derecho", "normal", "presión", "dibujo", "tire", "wheel", "rear", "right", "normal", "pressure", "tread"],
+    "translation": {
+      "es": "Presión y dibujo del neumático trasero derecho normales",
+      "en": "Right rear tire pressure and tread normal",
+      "fr": "Pression et bande de roulement du pneu arrière droit normales",
+      "de": "Reifendruck und Profil rechts hinten normal",
+      "it": "Pressione e battistrada del pneumatico posteriore destro normali",
+      "pt": "Pressão e banda de rodagem do pneu traseiro direito normais"
+    }
+  },
+  {
+    "num": 7,
+    "id": 12057,
+    "traditional": "後車體無異物正常",
+    "simplified": "后车体无异物正常",
+    "pinyin": "hòuchētǐ wú yìwù zhèngcháng",
+    "zhuyin": "ㄏㄡˋ ㄔㄜ ㄊㄧˇ ㄨˊ ㄧˋ ㄨˋ ㄓㄥˋ ㄔㄤˊ",
+    "type": "Phrase",
+    "tags": ["coche", "parte trasera", "sin objetos extraños", "normal", "inspección", "car", "rear body", "no foreign objects", "normal", "inspection"],
+    "translation": {
+      "es": "Carrocería trasera sin objetos extraños (normal)",
+      "en": "Rear car body clear of foreign objects (normal)",
+      "fr": "Carrosserie arrière sans objets étrangers (normal)",
+      "de": "Hintere Karosserie frei von Fremdkörpern (normal)",
+      "it": "Carrozzeria posteriore priva di oggetti estranei (normale)",
+      "pt": "Carroceria traseira sem objetos estranhos (normal)"
+    }
+  },
+  {
+    "num": 8,
+    "id": 12058,
+    "traditional": "左後輪胎壓紋正常",
+    "simplified": "左后轮胎压紋正常",
+    "pinyin": "zuǒhòu lúntāi yāwén zhèngcháng",
+    "zhuyin": "ㄗㄨㄛˇ ㄏㄡˋ ㄌㄨㄣˊ ㄊㄞ ㄧㄚ ㄨㄣˊ ㄓㄥˋ ㄔㄤˊ",
+    "type": "Phrase",
+    "tags": ["neumático", "rueda", "trasero", "izquierdo", "normal", "presión", "dibujo", "tire", "wheel", "rear", "left", "normal", "pressure", "tread"],
+    "translation": {
+      "es": "Presión y dibujo del neumático trasero izquierdo normales",
+      "en": "Left rear tire pressure and tread normal",
+      "fr": "Pression et bande de roulement du pneu arrière gauche normales",
+      "de": "Reifendruck und Profil links hinten normal",
+      "it": "Pressione e battistrada del pneumatico posteriore sinistro normali",
+      "pt": "Pressão e banda de rodagem do pneu traseiro esquerdo normais"
+    }
+  },
+  {
+    "num": 9,
+    "id": 12059,
+    "traditional": "兩段式開門上車",
+    "simplified": "两段式开门上车",
+    "pinyin": "liǎngduànshì kāimén shàngchē",
+    "zhuyin": "ㄌㄧㄤˇ ㄉㄨㄢˋ ㄕˋ ㄎㄞ ㄇㄣˊ ㄕㄤˋ ㄔㄜ",
+    "type": "Phrase",
+    "tags": ["acción", "subir al coche", "abrir puerta", "dos etapas", "seguridad", "action", "get in car", "open door", "two-stage", "safety"],
+    "translation": {
+      "es": "Abrir la puerta en dos etapas para subir al coche",
+      "en": "Two-stage door opening to get in the car",
+      "fr": "Ouvrir la porte en deux étapes pour monter dans la voiture",
+      "de": "Tür in zwei Stufen öffnen zum Einsteigen",
+      "it": "Apertura della portiera in due fasi per salire in auto",
+      "pt": "Abrir a porta em duas etapas para entrar no carro"
+    }
+  },
+  {
+    "num": 10,
+    "id": 12060,
+    "traditional": "調整座椅 (手往後調整)",
+    "simplified": "调整座椅 (手往后调整)",
+    "pinyin": "tiáozhěng zuòyǐ (shǒu wǎng hòu tiáozhěng)",
+    "zhuyin": "ㄊㄧㄠˊ ㄓㄥˇ ㄗㄨㄛˋ ㄧˇ (ㄕㄡˇ ㄨㄤˇ ㄏㄡˋ ㄊㄧㄠˊ ㄓㄥˇ)",
+    "type": "V",
+    "tags": ["acción", "ajustar", "asiento", "mover", "hacia atrás", "action", "adjust", "seat", "move", "backward"],
+    "translation": {
+      "es": "Ajustar el asiento (ajustar con la mano hacia atrás)",
+      "en": "Adjust seat (adjust with hand moving back)",
+      "fr": "Régler le siège (régler avec la main vers l'arrière)",
+      "de": "Sitz einstellen (mit der Hand nach hinten verstellen)",
+      "it": "Regolare il sedile (regolare con la mano all'indietro)",
+      "pt": "Ajustar o assento (ajustar com a mão para trás)"
+    }
+  },
+  {
+    "num": 11,
+    "id": 12061,
+    "traditional": "調整頭枕 (雙手往後輕碰頭枕)",
+    "simplified": "调整头枕 (双手往后轻碰头枕)",
+    "pinyin": "tiáozhěng tóuzhěn (shuāngshǒu wǎng hòu qīng pèng tóuzhěn)",
+    "zhuyin": "ㄊㄧㄠˊ ㄓㄥˇ ㄊㄡˊ ㄓㄣˇ (ㄕㄨㄤ ㄕㄡˇ ㄨㄤˇ ㄏㄡˋ ㄑㄧㄥ ㄆㄥˋ ㄊㄡˊ ㄓㄣˇ)",
+    "type": "V",
+    "tags": ["acción", "ajustar", "reposacabezas", "tocar", "suavemente", "action", "adjust", "headrest", "gently touch"],
+    "translation": {
+      "es": "Ajustar el reposacabezas (tocar ligeramente con ambas manos hacia atrás)",
+      "en": "Adjust headrest (gently touch headrest with both hands moving back)",
+      "fr": "Régler l'appui-tête (toucher légèrement l'appui-tête avec les deux mains vers l'arrière)",
+      "de": "Kopfstütze einstellen (mit beiden Händen leicht nach hinten berühren)",
+      "it": "Regolare il poggiatesta (toccare leggermente il poggiatesta con entrambe le mani all'indietro)",
+      "pt": "Ajustar o encosto de cabeça (tocar levemente o encosto com ambas as mãos para trás)"
+    }
+  },
+  {
+    "num": 12,
+    "id": 12062,
+    "traditional": "繫安全帶",
+    "simplified": "系安全带",
+    "pinyin": "jì ānquándài",
+    "zhuyin": "ㄐㄧˋ ㄢ ㄑㄩㄢˊ ㄉㄞˋ",
+    "type": "V",
+    "tags": ["acción", "abrochar", "cinturón de seguridad", "seguridad", "action", "fasten", "seat belt", "safety"],
+    "translation": {
+      "es": "Abrocharse el cinturón de seguridad",
+      "en": "Fasten seat belt",
+      "fr": "Attacher la ceinture de sécurité",
+      "de": "Sicherheitsgurt anlegen",
+      "it": "Allacciare la cintura di sicurezza",
+      "pt": "Afivelar o cinto de segurança"
+    }
+  },
+  {
+    "num": 13,
+    "id": 12063,
+    "traditional": "調整後視鏡 (雙手扶夾內鎖，環頭察看左右後視鏡)",
+    "simplified": "调整后视镜 (双手扶夹内锁，环头察看左右后视鏡)",
+    "pinyin": "tiáozhěng hòushìjìng (shuāngshǒu fú jiā nèisuǒ, huántóu chákàn zuǒyòu hòushìjìng)",
+    "zhuyin": "ㄊㄧㄠˊ ㄓㄥˇ ㄏㄡˋ ㄕˋ ㄐㄧㄥˋ (ㄕㄨㄤ ㄕㄡˇ ㄈㄨˊ ㄐㄧㄚ ㄋㄟˋ ㄙㄨㄛˇ, ㄏㄨㄢˊ ㄊㄡˊ ㄔㄚˊ ㄎㄢˋ ㄗㄨㄛˇ ㄧㄡˋ ㄏㄡˋ ㄕˋ ㄐㄧㄥˋ)",
+    "type": "V",
+    "tags": ["acción", "ajustar", "espejo retrovisor", "ver", "lateral", "action", "adjust", "rearview mirror", "check", "side"],
+    "translation": {
+      "es": "Ajustar espejos retrovisores (sostener seguro interior, girar la cabeza para revisar espejos izq. y der.)",
+      "en": "Adjust mirrors (hold inner lock, turn head to check left/right mirrors)",
+      "fr": "Régler les rétroviseurs (tenir le verrouillage intérieur, tourner la tête pour vérifier les rétroviseurs gauche/droit)",
+      "de": "Spiegel einstellen (inneres Schloss halten, Kopf drehen, um linke/rechte Spiegel zu prüfen)",
+      "it": "Regolare gli specchietti (tenere il blocco interno, girare la testa per controllare gli specchietti sin/des)",
+      "pt": "Ajustar retrovisores (segurar trava interna, virar a cabeça para checar retrovisores esq/dir)"
+    }
+  },
+  {
+    "num": 14,
+    "id": 12064,
+    "traditional": "試踩剎車，排 P 檔 (N 檔)，拉緊手剎車 (右腳需踩住煞車踏板)",
+    "simplified": "试踩刹车，排 P 档 (N 档)，拉紧手刹车 (右脚需踩住刹车踏板)",
+    "pinyin": "shìcǎi shāchē, pái P dǎng (N dǎng), lājǐn shǒushāchē (yòujiǎo xū cǎizhù shāchētābǎn)",
+    "zhuyin": "ㄕˋ ㄘㄞˇ ㄕㄚ ㄔㄜ, ㄆㄞˊ P ㄉㄤˇ (N ㄉㄤˇ), ㄌㄚ ㄐㄧㄣˇ ㄕㄡˇ ㄕㄚ ㄔㄜ (ㄧㄡˋ ㄐㄧㄠˇ ㄒㄩ ㄘㄞˇ ㄓㄨˋ ㄕㄚ ㄔㄜ ㄊㄚ ㄅㄢˇ)",
+    "type": "Phrase",
+    "tags": ["acción", "probar", "freno", "parking", "neutral", "freno de mano", "pedal", "action", "test", "brake", "parking gear", "neutral gear", "handbrake", "pedal"],
+    "translation": {
+      "es": "Probar el freno, poner marcha P (o N), poner el freno de mano (pie derecho debe pisar el pedal de freno)",
+      "en": "Test brake, shift to P (or N), apply handbrake (right foot must be on brake pedal)",
+      "fr": "Tester le frein, passer en P (ou N), serrer le frein à main (le pied droit doit être sur la pédale de frein)",
+      "de": "Bremse testen, in P (oder N) schalten, Handbremse anziehen (rechter Fuß muss auf dem Bremspedal sein)",
+      "it": "Provare il freno, mettere in P (o N), tirare il freno a mano (il piede destro deve essere sul pedale del freno)",
+      "pt": "Testar o freio, colocar em P (ou N), puxar o freio de mão (pé direito deve estar no pedal do freio)"
+    }
+  },
+  {
+    "num": 15,
+    "id": 12065,
+    "traditional": "機油指示燈",
+    "simplified": "机油指示灯",
+    "pinyin": "jīyóu zhǐshìdēng",
+    "zhuyin": "ㄐㄧ ㄧㄡˊ ㄓㄧˇ ㄕˋ ㄉㄥ",
+    "type": "N",
+    "tags": ["luz indicadora", "aceite de motor", "coche", "advertencia", "motor", "indicator light", "engine oil", "car", "warning", "engine"],
+    "translation": {
+      "es": "Luz indicadora del aceite de motor",
+      "en": "Engine oil indicator light",
+      "fr": "Voyant d'huile moteur",
+      "de": "Motoröl-Kontrollleuchte",
+      "it": "Spia dell'olio motore",
+      "pt": "Luz indicadora do óleo do motor"
+    }
+  },
+  {
+    "num": 16,
+    "id": 12066,
+    "traditional": "引擎指示燈",
+    "simplified": "引擎指示灯",
+    "pinyin": "yǐnqíng zhǐshìdēng",
+    "zhuyin": "ㄧㄣˇ ㄑㄧㄥˊ ㄓㄧˇ ㄕˋ ㄉㄥ",
+    "type": "N",
+    "tags": ["luz indicadora", "motor", "coche", "advertencia", "engine", "indicator light", "car", "warning"],
+    "translation": {
+      "es": "Luz indicadora del motor (Check engine)",
+      "en": "Engine indicator light (Check engine light)",
+      "fr": "Voyant moteur (Check engine)",
+      "de": "Motor-Kontrollleuchte (Check-Engine-Leuchte)",
+      "it": "Spia del motore (Spia avaria motore)",
+      "pt": "Luz indicadora do motor (Luz de verificação do motor)"
+    }
+  },
+  {
+    "num": 17,
+    "id": 12067,
+    "traditional": "引擎",
+    "simplified": "引擎",
+    "pinyin": "yǐnqíng",
+    "zhuyin": "ㄧㄣˇ ㄑㄧㄥˊ",
+    "type": "N",
+    "tags": ["motor", "coche", "parte", "engine", "car", "part"],
+    "translation": {
+      "es": "Motor",
+      "en": "Engine",
+      "fr": "Moteur",
+      "de": "Motor",
+      "it": "Motore",
+      "pt": "Motor"
+    }
+  },
+  {
+    "num": 18,
+    "id": 12068,
+    "traditional": "充電指示燈 (電瓶)",
+    "simplified": "充电指示灯 (电瓶)",
+    "pinyin": "chōngdiàn zhǐshìdēng (diànpíng)",
+    "zhuyin": "ㄔㄨㄥ ㄉㄧㄢˋ ㄓㄧˇ ㄕˋ ㄉㄥ (ㄉㄧㄢˋ ㄆㄧㄥˊ)",
+    "type": "N",
+    "tags": ["luz indicadora", "carga", "batería", "coche", "advertencia", "indicator light", "charging", "battery", "car", "warning"],
+    "translation": {
+      "es": "Luz indicadora de carga (batería)",
+      "en": "Charging indicator light (Battery)",
+      "fr": "Voyant de charge (Batterie)",
+      "de": "Ladekontrollleuchte (Batterie)",
+      "it": "Spia di ricarica (Batteria)",
+      "pt": "Luz indicadora de carga (Bateria)"
+    }
+  },
+  {
+    "num": 19,
+    "id": 12069,
+    "traditional": "煞車指示燈",
+    "simplified": "刹车指示灯",
+    "pinyin": "shāchē zhǐshìdēng",
+    "zhuyin": "ㄕㄚ ㄔㄜ ㄓㄧˇ ㄕˋ ㄉㄥ",
+    "type": "N",
+    "tags": ["luz indicadora", "freno", "coche", "advertencia", "indicator light", "brake", "car", "warning"],
+    "translation": {
+      "es": "Luz indicadora de freno",
+      "en": "Brake indicator light",
+      "fr": "Voyant de frein",
+      "de": "Bremskontrollleuchte",
+      "it": "Spia dei freni",
+      "pt": "Luz indicadora do freio"
+    }
+  },
+  {
+    "num": 20,
+    "id": 12070,
+    "traditional": "油量表指示燈",
+    "simplified": "油量表指示灯",
+    "pinyin": "yóuliàngbiǎo zhǐshìdēng",
+    "zhuyin": "ㄧㄡˊ ㄌㄧㄤˋ ㄅㄧㄠˇ ㄓㄧˇ ㄕˋ ㄉㄥ",
+    "type": "N",
+    "tags": ["luz indicadora", "nivel de combustible", "coche", "advertencia", "indicator light", "fuel level", "car", "warning"],
+    "translation": {
+      "es": "Luz indicadora del nivel de combustible",
+      "en": "Fuel level indicator light",
+      "fr": "Voyant de niveau de carburant",
+      "de": "Kraftstoffstand-Kontrollleuchte",
+      "it": "Spia del livello carburante",
+      "pt": "Luz indicadora do nível de combustível"
+    }
+  },
+  {
+    "num": 21,
+    "id": 12071,
+    "traditional": "溫度表指示燈",
+    "simplified": "温度表指示灯",
+    "pinyin": "wēndùbiǎo zhǐshìdēng",
+    "zhuyin": "ㄨㄣ ㄉㄨˋ ㄅㄧㄠˇ ㄓㄧˇ ㄕˋ ㄉㄥ",
+    "type": "N",
+    "tags": ["luz indicadora", "temperatura", "motor", "coche", "advertencia", "indicator light", "temperature", "engine", "car", "warning"],
+    "translation": {
+      "es": "Luz indicadora del medidor de temperatura",
+      "en": "Temperature gauge indicator light",
+      "fr": "Voyant de température",
+      "de": "Temperatur-Kontrollleuchte",
+      "it": "Spia della temperatura",
+      "pt": "Luz indicadora do medidor de temperatura"
+    }
+  },
+  {
+    "num": 22,
+    "id": 12072,
+    "traditional": "發動引擎 (需踩煞車)",
+    "simplified": "发动引擎 (需踩刹车)",
+    "pinyin": "fādòng yǐnqíng (xū cǎi shāchē)",
+    "zhuyin": "ㄈㄚ ㄉㄨㄥˋ ㄧㄣˇ ㄑㄧㄥˊ (ㄒㄩ ㄘㄞˇ ㄕㄚ ㄔㄜ)",
+    "type": "V",
+    "tags": ["acción", "arrancar", "motor", "coche", "freno", "action", "start", "engine", "car", "brake"],
+    "translation": {
+      "es": "Arrancar el motor (necesario pisar el freno)",
+      "en": "Start engine (must press brake)",
+      "fr": "Démarrer le moteur (appuyer sur le frein)",
+      "de": "Motor starten (Bremse muss getreten werden)",
+      "it": "Avviare il motore (premere il freno)",
+      "pt": "Ligar o motor (precisa pisar no freio)"
+    }
+  },
+  {
+    "num": 23,
+    "id": 12073,
+    "traditional": "放手剎車，入 D 檔",
+    "simplified": "放手刹车，入 D 档",
+    "pinyin": "fàng shǒushāchē, rù D dǎng",
+    "zhuyin": "ㄈㄤˋ ㄕㄡˇ ㄕㄚ ㄔㄜ, ㄖㄨˋ D ㄉㄤˇ",
+    "type": "Phrase",
+    "tags": ["acción", "soltar", "freno de mano", "marcha D", "conducir", "action", "release", "handbrake", "D gear", "drive"],
+    "translation": {
+      "es": "Soltar el freno de mano, poner marcha D",
+      "en": "Release handbrake, shift to D",
+      "fr": "Desserrer le frein à main, passer en D",
+      "de": "Handbremse lösen, in D schalten",
+      "it": "Rilasciare il freno a mano, mettere in D",
+      "pt": "Soltar o freio de mão, engatar o D (Drive)"
+    }
+  },
+  {
+    "num": 24,
+    "id": 12074,
+    "traditional": "打方向燈 (左邊)",
+    "simplified": "打方向灯 (左边)",
+    "pinyin": "dǎ fāngxiàngdēng (zuǒbiān)",
+    "zhuyin": "ㄉㄚˇ ㄈㄤ ㄒㄧㄤˋ ㄉㄥ (ㄗㄨㄛˇ ㄅㄧㄢ)",
+    "type": "V",
+    "tags": ["acción", "poner", "intermitente", "izquierda", "conducir", "action", "turn on", "turn signal", "left", "driving"],
+    "translation": {
+      "es": "Poner el intermitente (izquierdo)",
+      "en": "Turn on signal (left)",
+      "fr": "Mettre le clignotant (gauche)",
+      "de": "Blinker setzen (links)",
+      "it": "Mettere la freccia (sinistra)",
+      "pt": "Dar seta (esquerda)"
+    }
+  },
+  {
+    "num": 25,
+    "id": 12075,
+    "traditional": "看左頭",
+    "simplified": "看左头",
+    "pinyin": "kàn zuǒtóu",
+    "zhuyin": "ㄎㄢˋ ㄗㄨㄛˇ ㄊㄡˊ",
+    "type": "V",
+    "tags": ["acción", "mirar", "cabeza", "izquierda", "girar", "action", "look", "head", "left", "turn"],
+    "translation": {
+      "es": "Girar la cabeza a la izquierda (para mirar)",
+      "en": "Turn head left (to look)",
+      "fr": "Tourner la tête à gauche (pour regarder)",
+      "de": "Kopf nach links drehen (zum Schauen)",
+      "it": "Girare la testa a sinistra (per guardare)",
+      "pt": "Virar a cabeça para a esquerda (para olhar)"
+    }
+  },
+  {
+    "num": 26,
+    "id": 12076,
+    "traditional": "起步",
+    "simplified": "起步",
+    "pinyin": "qǐbù",
+    "zhuyin": "ㄑㄧˇ ㄅㄨˋ",
+    "type": "V",
+    "tags": ["acción", "arrancar", "inicio", "conducir", "movimiento", "action", "start", "begin", "driving", "movement"],
+    "translation": {
+      "es": "Arrancar, ponerse en marcha",
+      "en": "Start moving, pull away",
+      "fr": "Démarrer, se mettre en route",
+      "de": "Anfahren",
+      "it": "Partire, mettersi in marcia",
+      "pt": "Arrancar, começar a mover-se"
+    }
+  },
+  {
+    "num": 27,
+    "id": 12077,
+    "traditional": "排入 P 檔 (N 檔)",
+    "simplified": "排入 P 档 (N 档)",
+    "pinyin": "pái rù P dǎng (N dǎng)",
+    "zhuyin": "ㄆㄞˊ ㄖㄨˋ P ㄉㄤˇ (N ㄉㄤˇ)",
+    "type": "V",
+    "tags": ["acción", "poner", "marcha P", "marcha N", "parking", "neutral", "action", "put into", "P gear", "N gear", "parking", "neutral"],
+    "translation": {
+      "es": "Poner en marcha P (o N)",
+      "en": "Shift to P (or N)",
+      "fr": "Passer en P (ou N)",
+      "de": "In P (oder N) schalten",
+      "it": "Mettere in P (o N)",
+      "pt": "Colocar em P (ou N)"
+    }
+  },
+  {
+    "num": 28,
+    "id": 12078,
+    "traditional": "拉緊手剎車",
+    "simplified": "拉紧手刹车",
+    "pinyin": "lājǐn shǒushāchē",
+    "zhuyin": "ㄌㄚ ㄐㄧㄣˇ ㄕㄡˇ ㄕㄚ ㄔㄜ",
+    "type": "V",
+    "tags": ["acción", "apretar", "freno de mano", "parking", "action", "tighten", "handbrake", "parking"],
+    "translation": {
+      "es": "Poner (apretar) el freno de mano",
+      "en": "Apply (pull) the handbrake",
+      "fr": "Serrer le frein à main",
+      "de": "Handbremse anziehen",
+      "it": "Tirare il freno a mano",
+      "pt": "Puxar o freio de mão"
+    }
+  },
+  {
+    "num": 29,
+    "id": 12079,
+    "traditional": "熄火",
+    "simplified": "熄火",
+    "pinyin": "xīhuǒ",
+    "zhuyin": "ㄒㄧ ㄏㄨㄛˇ",
+    "type": "V-sep",
+    "tags": ["acción", "apagar", "motor", "detener", "coche", "action", "turn off", "engine", "stop", "car"],
+    "translation": {
+      "es": "Apagar el motor",
+      "en": "Turn off the engine",
+      "fr": "Couper le moteur",
+      "de": "Motor abstellen",
+      "it": "Spegnere il motore",
+      "pt": "Desligar o motor"
+    }
+  },
+  {
+    "num": 30,
+    "id": 12080,
+    "traditional": "兩段式開門下車",
+    "simplified": "两段式开门下车",
+    "pinyin": "liǎngduànshì kāimén xiàchē",
+    "zhuyin": "ㄌㄧㄤˇ ㄉㄨㄢˋ ㄕˋ ㄎㄞ ㄇㄣˊ ㄒㄧㄚˋ ㄔㄜ",
+    "type": "Phrase",
+    "tags": ["acción", "bajar del coche", "abrir puerta", "dos etapas", "seguridad", "action", "get out of car", "open door", "two-stage", "safety"],
+    "translation": {
+      "es": "Abrir la puerta en dos etapas para bajar del coche",
+      "en": "Two-stage door opening to get out of the car",
+      "fr": "Ouvrir la porte en deux étapes pour descendre de la voiture",
+      "de": "Tür in zwei Stufen öffnen zum Aussteigen",
+      "it": "Apertura della portiera in due fasi per scendere dall'auto",
+      "pt": "Abrir a porta em duas etapas para sair do carro"
+    }
+  }
+]
