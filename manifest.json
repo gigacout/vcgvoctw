@@ -95,7 +95,8 @@
       "Comidas": "nivel0-taiwan-comidas.json",
       "Metro": "nivel0-taiwan-metro.json",
       "Bebidas": "nivel0-taiwan-bebidas.json",
-      "Conducir": "nivel0-taiwan-conducir.json"
+      "Conducir": "nivel0-taiwan-conducir.json",
+      "Conducir2": "nivel0-taiwan-conducir2.json"
     },
     "Tiempo": {
       "Sección 1": "nivel0-tiempo-sec1.json"
@@ -161,6 +162,7 @@
     }
   }
 }
+
 
 
 
